@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paucv27
-- 👀 I’m interested in most music genres and learning new things
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, PHP, and more 
+- 👀 I’m interested in music and learning new and interesting things
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, and more 
 - 💞️ I’m looking to collaborate on anything that will help me gain experience and skills :)
 
 <!---
